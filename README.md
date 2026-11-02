@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,15,10,5,0&height=220&section=header&text=Unslop%20Skill&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%E2%9C%8D%EF%B8%8F%20AI%20Text%20Humanizer%20%26%20Fluff%20Elimination%20Skill&descAlignY=62&descAlign=50" width="100%" alt="Unslop Skill 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,8,2,0&height=220&section=header&text=Unslop%20Skill&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%E2%9C%8D%EF%B8%8F%20AI%20Text%20Humanizer%20%E2%80%A2%20Fluff%20Elimination%20Skill&descAlignY=62&descAlign=50" width="100%" alt="Unslop Skill 3D Banner" />
 
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/unslop">
