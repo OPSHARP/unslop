@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,8,2,0&height=220&section=header&text=Unslop%20Skill&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%E2%9C%8D%EF%B8%8F%20AI%20Text%20Humanizer%20%E2%80%A2%20Fluff%20Elimination%20Skill&descAlignY=62&descAlign=50" width="100%" alt="Unslop Skill 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/unslop">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="95" height="95" alt="Unslop Skill 3D Icon" />
@@ -535,8 +532,4 @@ broken. The guiding principles:
 
 Python 3.8+ and any supported coding agent. Licensed MIT.
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,15,10,5,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
